@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm Sample</string>
+
+    <string name="dismiss">DISMISS</string>
+    <string name="silence_alarm">SILENCE ALARM</string>
+    <string name="alarm_running">Alarm Running!</string>
+</resources>
